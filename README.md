@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a sophomore student at NSUT<br>🌱 I’m currently learning DSA<br>⚡ Fun fact: I love cats.
+🔭 I’m currently a  student at NSUT<br>⚡ Fun fact: I love cats.
 
 
 ## 🌐 Socials:
